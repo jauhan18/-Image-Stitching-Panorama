@@ -1,4 +1,4 @@
-# Image Stitching & Panorama Construction 📷
+# Image Stitching & Panorama Construction 
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv&logoColor=white)
