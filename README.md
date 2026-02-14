@@ -28,7 +28,7 @@ Before stitching, the system analyzes the images to find common points.
 
 ### 2. Final Panorama
 The final result after stitching 6 input images:
-![Final Panorama]([hasil_panorama.jpg](https://github.com/jauhan18/-Image-Stitching-Panorama/blob/main/panorama.png))
+![Final Panorama](panorama.png)
 *(Note: Please ensure you upload your result image to this repository and update the filename above)*
 
 ## 🛠️ Installation & Usage
