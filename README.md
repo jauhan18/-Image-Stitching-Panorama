@@ -23,12 +23,12 @@ The project uses a sequence of 6 overlapping images taken in a boat scenario.
 
 ### 1. Keypoint Detection & Feature Matching
 Before stitching, the system analyzes the images to find common points.
-![Feature Matching](laporan_matches.jpg)
+![Feature Matching](https://github.com/jauhan18/-Image-Stitching-Panorama/blob/main/Feature%20Matching%20(SIFT).png)
 *Figure 1: Visualization of feature matching between two adjacent images.*
 
 ### 2. Final Panorama
 The final result after stitching 6 input images:
-![Final Panorama](hasil_panorama.jpg)
+![Final Panorama]([hasil_panorama.jpg](https://github.com/jauhan18/-Image-Stitching-Panorama/blob/main/panorama.png))
 *(Note: Please ensure you upload your result image to this repository and update the filename above)*
 
 ## 🛠️ Installation & Usage
